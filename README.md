@@ -5,5 +5,5 @@ This is the repository for the digital project done in CSCI-SHU 101 course at NY
 * For more detailed description, please check Project Introduction.pdf
 * For video presentation (demo), please check https://vimeo.com/842779051
 
-<img width="800" alt="chat-system-ss" src="https://github.com/ruoheng-du/chat-system/assets/99549293/6c1d28e2-b2fa-44ce-9c30-7741288bc8d7">
+<img width="800" alt="chat-system-demo" src="https://github.com/ruoheng-du/chat-system/raw/main/assets/chat_sys_demo.png">
 
